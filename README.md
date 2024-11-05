@@ -10,7 +10,7 @@ This project is a part of the Computer and Network Security course, aiming to st
 - Simulate basic security vulnerabilities, specifically SQL injection.
 - Learn techniques to secure applications from SQL injection attacks.
 
-## Lab Tasks
+##Tasks
 
 1. **Create SQL Database Schema**: 
    - Implement a database schema using Java and MySQL.
